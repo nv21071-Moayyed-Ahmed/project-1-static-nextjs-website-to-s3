@@ -139,7 +139,7 @@ function Newsletter() {
 function Resume() {
   let resume = [
     {
-      company: 'Planetaria',
+      company: 'NVTC',
       title: 'CEO',
       logo: logoPlanetaria,
       start: '2019',
