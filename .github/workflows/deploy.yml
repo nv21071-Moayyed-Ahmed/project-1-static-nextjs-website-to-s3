@@ -16,7 +16,7 @@ jobs:
     steps:
     - uses: actions/checkout@v3
     - uses: actions/setup-node@v1
-      with: 
+      with: c
         node-version: 14
     - run: npm install yarn -g
     - run: yarn install --frozen-lockfile
